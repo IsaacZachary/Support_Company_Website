@@ -1,4 +1,4 @@
-![](https://github.com/sitamadex11/CovidHelp/blob/develop/Assets/HackOctoberFestBanner.png)
+![](https://github.com/IsaacZachary/Support_Company_Website/blob/master/assets/img/plp.png)
 ![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-23-green)
 ![Maximum API Level](https://img.shields.io/badge/Max%20API%20Level-30-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sitamadex11/CovidHelp)
